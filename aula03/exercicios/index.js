@@ -1,1 +1,4 @@
-console.log(`Meu nome é "Ernane". Estou aprendendo JavaScript às 11h da manhã.`)
+const nome = "Ernane"
+const lang = "JavaScript"
+const hour = '11h' 
+console.log(`Meu nome é "${nome}". Estou aprendendo ${lang} ás ${hour}.`)
